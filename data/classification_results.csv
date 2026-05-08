@@ -1,0 +1,6 @@
+Algorithm,Test Accuracy,CV Accuracy,F1 Score,Precision,Recall,Best
+KNN,0.5182,0.4488,0.4611,0.4749,0.5182,
+Naive Bayes,0.5455,0.5457,0.4839,0.5156,0.5455,
+SVM,0.5545,0.5529,0.4790,0.4749,0.5545,
+MLP,0.4818,0.5001,0.4319,0.4147,0.4818,
+Random Forest,0.6000,0.5584,0.5724,0.5624,0.6000,Best

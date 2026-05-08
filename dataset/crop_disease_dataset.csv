@@ -1,0 +1,553 @@
+crop_type,region,disease_label,disease_severity,fertilizer_used,soil_ph,nitrogen,phosphorus,potassium,temperature,humidity,rainfall
+Rice,Terai,Healthy,None,No,5.93,96,31,32,35,80.8,230.9
+Millet,Mountain,Healthy,None,No,5.78,61,38,36,34.1,50,90.2
+Rice,Terai,Sheath Rot,Medium,No,5.87,,43,51,26.7,76.8,177.9
+Tomato,Hilly,Leaf Curl,Medium,No,6.6,87,76,58,24.2,78.3,108
+Cotton,Terai,Leaf Spot,Low,Yes,6.11,89,55,30,27.4,45.5,68.8
+Potato,Hilly,Early Blight,Medium,Yes,4.99,140,89,97,21.9,67.7,143.5
+Mustard,Terai,Downy Mildew,Medium,No,7.26,80,55,20,12.8,70.4,60.2
+Maize,Hilly,Stalk Rot,High,Yes,6.7,115,61,66,24.7,55.8,
+Maize,Hilly,Stalk Rot,,Yes,6.01,114,47,55,19.1,79.2,118
+Wheat,Hilly,Rust,Medium,Yes,6.76,121,44,62,22.2,72.7,133.9
+Millet,Mountain,Rust,Medium,No,,,25,28,22.7,,41.1
+Millet,Hilly,Healthy,None,No,5.53,36,49,25,34.3,42.9,116.7
+Maize,Hilly,Blight,High,No,5.9,,57,66,23,,198.7
+Cotton,Terai,Leaf Spot,Low,Yes,7.03,84,35,33,30.4,68.1,80.9
+Wheat,Terai,Powdery Mildew,Low,Yes,7.29,95,49,59,15.3,54.7,105.5
+Tomato,Terai,Wilt,High,Yes,6.15,93,43,60,27.6,76.5,74.3
+Millet,Mountain,Blast,High,Yes,6.57,67,32,40,30.7,46.7,78.8
+Cotton,Terai,Wilt,High,Yes,6.82,94,34,33,30.9,45.8,134.2
+Maize,Hilly,Blight,High,Yes,7.14,73,48,38,23.4,77.9,168.5
+Wheat,Hilly,Healthy,None,Yes,6.61,84,61,74,11,71.3,88.7
+Maize,Terai,Healthy,None,No,6.2,109,68,56,20.9,61.7,138
+Cotton,Terai,Healthy,None,No,7.82,91,58,56,30.9,60.6,95.5
+Rice,Terai,Blast,High,Yes,5.91,119,42,56,28.6,79.9,233
+Cotton,Terai,Wilt,High,Yes,7.67,62,55,48,36.5,52.7,147.1
+Rice,Terai,Healthy,None,Yes,6.62,72,36,35,24.3,77.5,203.8
+Wheat,Terai,Powdery Mildew,Low,Yes,6.92,97,63,46,17.6,52.9,74.2
+Wheat,Terai,Smut,High,Yes,7.02,82,62,55,21.4,56.9,99.8
+Mustard,Terai,Downy Mildew,Medium,Yes,6.97,75,52,40,11,73.2,34.1
+Cotton,Terai,Wilt,High,Yes,6.23,93,42,54,32.2,53.8,91.1
+Maize,Hilly,Mosaic,Medium,Yes,6.94,89,69,59,21.3,78.2,140.4
+Wheat,Terai,Rust,Medium,Yes,7.5,139,69,69,22.7,68.2,97.2
+Tomato,Hilly,Wilt,High,No,6.02,117,50,65,22.9,71.8,62.6
+Mustard,Hilly,Healthy,None,Yes,6.38,63,38,43,15.9,53.9,99.4
+Tomato,Terai,Leaf Curl,Medium,Yes,6.11,,76,69,26.9,75,59.5
+Mustard,Hilly,White Rust,Medium,No,6.64,98,51,32,11.5,60,70.1
+Millet,Mountain,Downy Mildew,Medium,Yes,6.72,67,25,42,22.2,44.3,84.1
+Millet,Mountain,Downy Mildew,Medium,Yes,6.2,66,37,42,34.4,54.7,75.6
+Wheat,Terai,Powdery Mildew,Low,Yes,6.01,82,63,55,24.7,71.3,109.5
+Tomato,Hilly,Mosaic,Medium,Yes,,80,61,78,25.9,61.4,45.6
+Wheat,Hilly,Rust,Medium,No,7.36,109,53,44,16.3,71.9,87.7
+Rice,Terai,Blast,High,No,6.94,95,44,47,24.1,85.1,217.5
+Rice,Terai,Blight,,No,6.27,95,35,52,33,87.6,188.4
+Millet,Mountain,Blast,High,Yes,6.59,33,32,45,31.3,,50.6
+Tomato,Terai,Wilt,High,Yes,6.22,89,78,60,21.2,74.8,72.1
+Tomato,Terai,Mosaic,Medium,Yes,6.59,115,42,61,20.8,57.4,99.2
+Wheat,Hilly,Smut,High,Yes,6.18,133,60,57,19.1,66.2,85.8
+Rice,Terai,Blight,High,Yes,5.61,67,33,34,27.6,76,232.3
+Wheat,Hilly,Smut,High,No,7.3,117,58,66,14.2,71.9,73.8
+Potato,Hilly,Scab,Low,Yes,5.37,126,87,137,14.7,82.3,139.9
+Mustard,Terai,Blight,High,No,7.3,77,54,27,22.7,,59
+Rice,Terai,Healthy,None,Yes,6.69,102,31,32,27.3,82.5,160
+Mustard,Terai,White Rust,Medium,No,7.12,98,43,27,23.1,60.4,84
+Maize,Hilly,Stalk Rot,High,Yes,6.27,109,67,43,20.6,65.8,92.3
+Cotton,Terai,Wilt,High,Yes,6.21,100,49,45,33.7,52.2,63.5
+Mustard,Terai,Healthy,None,No,6.83,78,59,36,11.8,74.3,42.6
+Tomato,Terai,Mosaic,Medium,Yes,6.21,,65,65,28.2,73.4,41.5
+Wheat,Hilly,Powdery Mildew,Low,Yes,7.41,104,63,76,14.1,51.9,63.3
+Mustard,Terai,White Rust,Medium,Yes,6.96,72,55,48,11.2,65.6,75.3
+Wheat,Terai,Powdery Mildew,Low,Yes,7.12,128,68,78,16.5,52.4,116.7
+Tomato,Hilly,Leaf Curl,Medium,No,6.52,123,41,63,28.3,70.2,85.7
+Maize,Terai,Mosaic,Medium,No,6.12,122,63,58,31.5,78.8,165.7
+Rice,Terai,Healthy,None,Yes,6.66,109,35,56,31.5,84.8,158.7
+Millet,Mountain,Downy Mildew,Medium,Yes,6.84,64,26,34,26.5,59.4,68
+Rice,Terai,Blight,High,Yes,6.98,109,38,32,30.9,74.2,204.1
+Wheat,Terai,Rust,Medium,Yes,6.21,110,66,71,14,60.3,78.1
+Maize,Hilly,Healthy,None,Yes,6.17,89,54,59,30.1,62.3,117.1
+Cotton,Terai,Leaf Spot,Low,Yes,7.8,73,54,59,37.4,68.9,83
+Mustard,Hilly,Healthy,None,No,6.68,79,31,25,15.8,53.7,88.5
+Mustard,Terai,Healthy,None,Yes,6.61,87,42,48,12.1,62.4,60.8
+Potato,Hilly,Scab,Low,No,6.14,124,72,103,21.3,64,
+Maize,Hilly,Healthy,None,No,7.04,111,46,50,24,74.1,126.4
+Tomato,Hilly,Leaf Curl,Medium,Yes,6.08,101,51,77,25.3,71,42.8
+Wheat,Terai,Smut,High,Yes,6.99,129,69,67,15.1,74.5,141.4
+Potato,Mountain,Scab,Low,No,6.09,126,63,91,14.8,81.2,101.3
+Rice,Terai,Sheath Rot,Medium,Yes,6.62,84,49,49,33.9,78,202.6
+Mustard,Hilly,White Rust,Medium,Yes,7.39,72,55,43,16.9,,
+Mustard,Hilly,Blight,High,Yes,6.8,65,47,29,20.5,64.1,48
+Rice,Terai,Sheath Rot,Medium,Yes,6.84,98,38,38,29.1,78,214.9
+Mustard,Hilly,Healthy,None,No,6.38,99,55,44,21.4,56.9,71.8
+Tomato,Terai,Leaf Curl,Medium,Yes,6.11,83,69,74,26,74.3,66.7
+Potato,Mountain,Scab,Low,Yes,4.98,139,67,84,15.9,77.2,
+Wheat,Hilly,Rust,Medium,No,6.19,136,74,49,19.8,50,78.3
+Tomato,Hilly,Wilt,High,No,6.84,104,71,83,20.3,75.2,89.8
+Tomato,Hilly,Healthy,None,Yes,6.15,92,46,59,26.1,57.5,59
+Cotton,Terai,Wilt,High,No,6.18,101,40,48,35.6,65.7,58
+Rice,Terai,Sheath Rot,Medium,Yes,6.31,105,55,43,30,83.8,
+Tomato,Hilly,Mosaic,Medium,No,6.9,96,51,93,27.8,66.8,94.3
+Potato,Mountain,Healthy,None,Yes,6.26,107,86,93,17.8,71.7,90.5
+Cotton,Terai,Boll Rot,Medium,Yes,7.14,72,49,54,37.1,49.9,84.8
+Tomato,Hilly,Leaf Curl,Medium,No,6.82,80,66,68,21.8,55.5,100.7
+Maize,Terai,Mosaic,Medium,Yes,6.85,70,57,41,21.7,57.3,131.9
+Wheat,Hilly,Healthy,None,No,6.03,96,72,64,23.7,60.3,85.2
+Mustard,Terai,Healthy,None,Yes,6.35,65,56,48,14.5,69.3,88.8
+Tomato,Hilly,Healthy,None,Yes,6.18,113,66,62,28.3,78.6,64.8
+Rice,Terai,Sheath Rot,Medium,Yes,6.49,99,55,52,26,73.6,165.6
+Potato,Hilly,Late Blight,High,Yes,5.46,118,55,84,18,65.6,149
+Cotton,Terai,Healthy,None,Yes,7.47,97,37,42,29.2,68.8,99.9
+Rice,Terai,Blast,High,Yes,6.11,70,30,34,31.8,79.7,155.2
+Potato,Hilly,Healthy,None,No,5.94,134,86,137,10.3,66.3,116.3
+Potato,Mountain,Late Blight,High,No,5.12,119,81,114,14.3,65.1,77.4
+Potato,Mountain,Scab,Low,Yes,5.17,132,82,100,16.4,79.5,132.8
+Maize,Terai,Mosaic,Medium,Yes,7.16,128,57,65,19,60.4,
+Mustard,Hilly,Blight,High,Yes,6.13,75,57,44,20.4,61.2,67.3
+Millet,Mountain,Blast,,No,7,54,38,21,27.8,57.7,81.8
+Cotton,Terai,Wilt,High,Yes,6.08,79,54,40,28,45.7,
+Rice,Terai,Blight,,No,6.27,95,35,52,33,87.6,188.4
+Mustard,Terai,White Rust,Medium,Yes,7.41,99,33,38,21.3,70.9,33.6
+Rice,Terai,Healthy,None,Yes,,70,54,53,26.9,91.6,260.9
+Millet,Mountain,Downy Mildew,,No,5.5,59,39,41,21,68.2,91.2
+Wheat,Hilly,Powdery Mildew,Low,Yes,6.81,138,54,48,20.9,63.7,95.6
+Potato,Hilly,Early Blight,Medium,No,6.2,111,55,111,17.1,60.9,62.7
+Rice,Terai,Healthy,None,No,6.44,106,53,45,29.2,79.9,270.2
+Mustard,Hilly,Healthy,None,Yes,7.18,90,52,24,22.3,74.6,62.3
+Millet,Mountain,Blast,High,Yes,5.86,48,49,42,31.8,56.6,105.7
+Cotton,Terai,Leaf Spot,Low,No,,88,46,45,33.6,41.5,146.5
+Maize,Terai,Healthy,None,Yes,7.05,105,58,62,21,58,119.3
+Wheat,Hilly,Smut,High,Yes,6.55,101,52,79,13.3,70.7,52.1
+Mustard,Hilly,Healthy,None,No,6.31,78,34,48,18.8,69.4,61.7
+Cotton,Terai,Boll Rot,Medium,Yes,7.07,71,52,45,29.7,44.7,110
+Wheat,Hilly,Smut,,Yes,6.24,92,71,46,12.6,58,80.5
+Rice,Terai,Sheath Rot,Medium,No,6.59,81,31,57,33.8,83,255.1
+Potato,Hilly,Early Blight,Medium,No,,115,59,117,12,68.4,106.8
+Potato,Mountain,Late Blight,High,Yes,4.89,117,71,133,14.6,61.1,118.3
+Wheat,Hilly,Healthy,None,Yes,7.2,,49,64,20.6,51.7,55
+Potato,Mountain,Early Blight,Medium,Yes,5.62,95,88,111,10.1,78.5,109.8
+Potato,Mountain,Healthy,None,Yes,6.41,97,80,95,17.5,63.2,120.2
+Potato,Mountain,Late Blight,High,Yes,,140,50,133,10,76.2,87
+Maize,Hilly,Healthy,None,No,6.61,117,45,61,31.9,70.9,116.3
+Maize,Hilly,Stalk Rot,High,Yes,6.41,,45,43,31,59.5,98.4
+Cotton,Terai,Leaf Spot,Low,Yes,7,76,52,31,29.5,,143.3
+Maize,Terai,Healthy,None,No,5.81,,55,46,23.2,77.1,99.1
+Wheat,Terai,Smut,High,No,6.08,105,77,51,22.5,51.4,79.4
+Mustard,Terai,Downy Mildew,Medium,Yes,7.24,64,33,32,16.1,73.1,56.2
+Rice,Terai,Healthy,None,Yes,6.79,113,44,49,30.6,93.4,278.2
+Cotton,Terai,Leaf Spot,Low,Yes,6.06,81,38,56,37.2,46.4,62.3
+Mustard,Hilly,Healthy,None,Yes,6.22,80,36,37,13.3,72.3,57.8
+Potato,Mountain,Scab,Low,Yes,4.97,124,53,89,16,69.2,74.6
+Mustard,Terai,Blight,High,Yes,6.98,89,39,39,19.1,53.4,
+Potato,Hilly,Late Blight,High,Yes,,138,80,89,14.7,64,107.7
+Millet,Mountain,Blast,High,No,7.21,49,43,24,29.1,64,51.6
+Cotton,Terai,Boll Rot,Medium,Yes,7.81,88,49,46,25.8,55.5,138.3
+Potato,Mountain,Early Blight,Medium,No,5.62,134,58,97,17.7,66.9,108.3
+Tomato,Terai,Healthy,None,Yes,6.15,122,60,96,20.8,63.3,84.8
+Maize,Hilly,Stalk Rot,High,No,6.38,106,51,51,25.1,61,181.3
+Mustard,Hilly,Healthy,None,No,7.47,85,51,49,15.8,57.6,49.8
+Rice,Terai,Sheath Rot,Medium,Yes,6.19,83,43,42,24,85.4,229.8
+Cotton,Terai,Wilt,High,No,7.68,80,53,31,31.3,60.6,149.2
+Cotton,Terai,Boll Rot,Medium,No,6.46,81,55,50,34.5,59.8,123.9
+Maize,Terai,Blight,High,No,6.92,78,43,60,29.9,64.9,95.3
+Cotton,Terai,Boll Rot,Medium,No,7.35,89,38,30,30.6,44.1,98.7
+Wheat,Hilly,Powdery Mildew,Low,Yes,7,130,54,57,10.5,57.8,96.3
+Potato,Mountain,Scab,Low,Yes,5.45,134,69,87,21.1,82.3,
+Maize,Hilly,Stalk Rot,High,No,6.46,97,69,48,25.4,72.2,114.9
+Millet,Hilly,Rust,Medium,No,,67,34,29,33.4,47.9,81.7
+Maize,Terai,Stalk Rot,High,Yes,5.92,125,51,56,23.4,79.5,131.9
+Rice,Terai,Blast,High,Yes,6.17,93,47,32,31,83.3,238.5
+Rice,Terai,Healthy,None,No,5.64,74,56,41,33.6,94.8,237.9
+Rice,Terai,Blight,High,No,6.73,89,55,48,33.8,71.8,243.4
+Tomato,Hilly,Healthy,None,No,6.66,122,68,89,22.3,,57.7
+Potato,Hilly,Healthy,None,No,5.59,132,79,88,12,79.3,124.7
+Maize,Hilly,Healthy,None,No,6.4,,49,47,25.1,60.3,184.5
+Maize,Terai,Mosaic,Medium,No,6.69,124,35,54,24.2,72,173.8
+Cotton,Terai,Leaf Spot,Low,Yes,7.03,84,35,33,30.4,68.1,80.9
+Potato,Hilly,Early Blight,Medium,Yes,5.28,98,61,98,19.7,67.4,64
+Rice,Terai,Blight,High,Yes,6.11,114,48,47,25.8,,261.1
+Potato,Mountain,Scab,Low,Yes,5.07,100,60,87,20,82.2,89.1
+Cotton,Terai,Leaf Spot,Low,No,6.13,84,31,31,34.9,63.3,95
+Wheat,Terai,Smut,High,Yes,7.32,,45,58,18.5,53.5,123.8
+Wheat,Terai,Smut,High,Yes,6.66,83,69,62,18.7,74.4,135.5
+Maize,Terai,Healthy,,Yes,6.45,95,41,67,26.6,64.4,101.4
+Rice,Terai,Blast,High,No,6.28,111,49,35,30.3,83.9,207.5
+Rice,Terai,Sheath Rot,Medium,Yes,,116,37,32,25.4,87.2,153.4
+Cotton,Terai,Leaf Spot,Low,Yes,6.79,73,35,50,32.1,58.2,117.8
+Wheat,Hilly,Rust,,Yes,6.43,138,62,54,12.5,52.2,52.6
+Potato,Hilly,Healthy,None,Yes,4.82,105,60,84,12.7,76.7,147.8
+Rice,Terai,Sheath Rot,Medium,No,6.02,97,31,35,29.4,81.4,194
+Wheat,Hilly,Smut,High,No,7.11,90,44,42,10,71.1,141.5
+Mustard,Hilly,Blight,High,Yes,6.04,,48,41,23.1,53.4,
+Wheat,Hilly,Smut,High,Yes,,100,57,68,10.1,55,138
+Millet,Hilly,Downy Mildew,Medium,No,7.07,34,39,23,24.5,44.9,65.6
+Tomato,Terai,Wilt,High,Yes,6.83,120,44,78,24,55.3,66.1
+Millet,Hilly,Healthy,None,Yes,6.91,68,40,45,20.8,56.4,99
+Maize,Hilly,Healthy,None,Yes,,115,59,65,24.2,62.4,192.7
+Rice,Terai,Blast,High,Yes,6.01,102,46,37,24.8,86.1,167.4
+Wheat,Hilly,Healthy,None,Yes,6.54,114,42,46,16,,
+Maize,Terai,Healthy,None,Yes,6.09,107,47,69,27.4,67.2,133.8
+Mustard,Terai,White Rust,Medium,Yes,7.44,90,49,42,20.4,52.2,66.5
+Rice,Terai,Blight,High,Yes,5.55,110,43,36,32.1,91,
+Maize,Terai,Healthy,None,No,6.15,124,44,66,22.1,69.1,122.5
+Rice,Terai,Blast,High,Yes,6.81,119,53,42,28.4,85.7,212.4
+Rice,Terai,Blast,High,No,6.69,104,44,31,32.3,75.1,155.9
+Mustard,Terai,White Rust,Medium,Yes,7.34,61,52,42,21.5,51.8,70.8
+Cotton,Terai,Leaf Spot,Low,Yes,7.29,94,45,39,28,48.4,133.7
+Potato,Mountain,Late Blight,High,Yes,6.16,146,53,95,21.4,81.9,141.2
+Rice,Terai,Healthy,None,Yes,6.75,108,55,31,32,84.5,204.6
+Mustard,Terai,White Rust,Medium,Yes,6.61,79,56,29,24.3,64.8,88.9
+Wheat,Terai,Smut,High,No,6.59,84,43,63,16.8,74.6,88.6
+Potato,Mountain,Scab,Low,Yes,6.34,97,71,132,10.8,74.3,122.3
+Tomato,Hilly,Healthy,None,Yes,6.4,128,68,82,21.5,72,77.2
+Cotton,Terai,Boll Rot,Medium,Yes,7.58,82,35,55,36,50,98.5
+Cotton,Terai,Boll Rot,Medium,Yes,7.51,,38,45,26.9,52.4,88.1
+Cotton,Terai,Wilt,High,Yes,6.41,73,42,33,28.9,57.8,139.9
+Maize,Terai,Mosaic,Medium,Yes,5.9,87,65,40,26.3,55.1,144.5
+Mustard,Terai,Healthy,None,No,6.45,87,36,43,17.8,60,
+Mustard,Hilly,Blight,High,Yes,6.34,99,45,24,11.6,74.3,41.7
+Millet,Mountain,Rust,Medium,Yes,7.44,55,31,23,31,68.8,114.9
+Mustard,Terai,Healthy,None,Yes,7.47,66,36,26,13.5,68.2,89.2
+Cotton,Terai,Wilt,High,No,7.09,95,36,50,26.4,50.2,68.5
+Cotton,Terai,Healthy,None,Yes,7.87,103,42,50,31.6,69.1,81.9
+Potato,Mountain,Early Blight,Medium,Yes,5.67,142,64,86,18.4,68.1,
+Maize,Terai,Blight,High,No,6.13,98,50,51,18.6,77.7,152.5
+Cotton,Terai,Boll Rot,Medium,No,7.43,,38,58,27,56.5,75
+Cotton,Terai,Healthy,None,Yes,6.27,79,35,40,36.3,54.3,72.5
+Maize,Hilly,Blight,High,No,6.64,111,47,63,21.3,71.1,116
+Potato,Hilly,Early Blight,Medium,Yes,5.87,122,55,102,14,73.3,145.7
+Cotton,Terai,Leaf Spot,Low,Yes,7.23,67,55,58,31.7,61.7,131.4
+Rice,Terai,Blast,High,Yes,6.98,109,43,51,30.9,80,212.6
+Tomato,Terai,Mosaic,Medium,Yes,6.69,114,65,63,29.4,67.5,53.4
+Cotton,Terai,Leaf Spot,Low,Yes,7.29,77,53,47,33.4,65.2,143.1
+Cotton,Terai,Wilt,High,Yes,6.73,107,58,34,27.2,66.1,88.3
+Maize,Hilly,Mosaic,Medium,No,7.1,92,51,38,25.2,68.9,
+Tomato,Terai,Mosaic,Medium,Yes,7,85,73,74,28.9,79.2,84.2
+Tomato,Hilly,Healthy,None,No,6.99,94,48,88,28.2,77.2,43.2
+Tomato,Hilly,Healthy,None,Yes,6.23,102,47,52,22.7,72,87.4
+Rice,Terai,Healthy,None,Yes,6.05,91,56,50,25.7,70.5,194
+Rice,Terai,Blast,,No,6.36,94,51,37,32.9,72.8,194.6
+Tomato,Hilly,Healthy,None,Yes,6.07,90,55,99,20.8,71.9,66.7
+Cotton,Terai,Boll Rot,Medium,Yes,7.16,80,40,33,27,,97.7
+Cotton,Terai,Healthy,None,Yes,6.5,106,47,46,34.7,43.5,77.2
+Rice,Terai,Blast,High,Yes,6.2,111,58,57,26,71.3,189.3
+Potato,Mountain,Healthy,None,No,6.38,149,81,125,17.5,81.3,85.1
+Potato,Mountain,Late Blight,High,Yes,6.47,139,86,95,14.7,,113.7
+Millet,Hilly,Rust,Medium,No,5.85,33,29,24,23.9,51.1,100.1
+Potato,Hilly,Late Blight,High,No,,94,81,94,18.8,67.4,99.6
+Cotton,Terai,Leaf Spot,Low,Yes,7.11,60,52,31,27.4,63.5,85.5
+Millet,Hilly,Blast,High,Yes,5.99,42,48,47,32.9,40.1,78.5
+Maize,Terai,Healthy,,Yes,6.97,112,55,66,27,57.9,170.9
+Mustard,Terai,Downy Mildew,Medium,Yes,7.43,69,52,35,16.2,67.7,72.1
+Tomato,Hilly,Healthy,None,Yes,6.53,116,42,57,29.2,74,58.9
+Millet,Mountain,Downy Mildew,Medium,Yes,6.79,63,28,25,21.7,57.3,46.1
+Tomato,Terai,Mosaic,Medium,Yes,6.46,86,66,60,27.3,,43.4
+Potato,Hilly,Early Blight,Medium,Yes,6.15,106,75,129,19.5,74.1,96.7
+Cotton,Terai,Healthy,None,Yes,6.34,98,33,43,35,47.3,82.7
+Millet,Hilly,Downy Mildew,Medium,Yes,6.63,43,29,39,24.1,40.2,105.9
+Millet,Mountain,Downy Mildew,Medium,No,6.03,30,28,43,31.6,43.6,104.6
+Mustard,Terai,Downy Mildew,Medium,Yes,7.2,75,35,42,18.1,55.4,86.8
+Millet,Hilly,Rust,Medium,Yes,6.07,39,30,25,26.6,61.6,67.2
+Wheat,Terai,Healthy,None,Yes,6.98,119,63,43,20.8,57.1,111.2
+Cotton,Terai,Boll Rot,Medium,Yes,7.57,65,42,55,33.4,59.1,92.1
+Millet,Hilly,Rust,Medium,Yes,6.32,44,29,41,28.6,43.8,74.7
+Cotton,Terai,Wilt,High,Yes,6.63,72,36,42,34.3,46.1,77.1
+Rice,Terai,Blast,High,Yes,6.84,,51,45,33.4,92.4,238.5
+Rice,Terai,Blast,High,Yes,5.61,61,37,46,26.8,84.8,182.4
+Maize,Terai,Mosaic,Medium,No,,76,53,44,30.5,64.2,114.5
+Cotton,Terai,Healthy,,No,6.42,67,52,45,28.1,67.4,99.4
+Wheat,Terai,Powdery Mildew,Low,No,7.11,91,64,57,20.8,72.6,92
+Mustard,Hilly,Healthy,None,Yes,6.97,70,55,35,10.5,53,93.9
+Rice,Terai,Healthy,None,Yes,6.28,96,43,54,32.9,91.2,222
+Millet,Mountain,Healthy,None,No,6.55,40,31,37,20.7,68,63.7
+Wheat,Terai,Healthy,None,Yes,7,130,46,40,12.7,,120.5
+Mustard,Hilly,White Rust,Medium,Yes,7.19,76,36,26,13.6,51.3,49.6
+Rice,Terai,Blast,High,Yes,6,70,37,54,26.8,82.1,
+Potato,Hilly,Scab,Low,Yes,5.66,101,84,120,11.2,73.8,95.3
+Tomato,Hilly,Mosaic,Medium,Yes,6.23,114,49,81,24.3,74.2,62.1
+Maize,Terai,Mosaic,Medium,No,6,102,55,54,20.5,77.9,94.9
+Rice,Terai,Blast,High,No,6.1,116,30,47,31.7,71,182.9
+Wheat,Terai,Powdery Mildew,Low,Yes,7.36,91,56,57,12.5,52.1,62.1
+Potato,Hilly,Scab,Low,Yes,5.16,90,62,124,18.4,65.1,99
+Mustard,Terai,Downy Mildew,Medium,Yes,6.52,74,56,33,21.7,72.2,64.5
+Cotton,Terai,Leaf Spot,Low,No,7.38,74,44,31,30.5,58.2,125.5
+Maize,Hilly,Mosaic,Medium,Yes,6.98,115,43,68,30.3,55.7,196.9
+Mustard,Terai,Healthy,None,Yes,7.21,88,41,30,16,62.7,79.6
+Cotton,Terai,Leaf Spot,Low,No,6.89,94,47,35,32.5,68.6,107.6
+Maize,Terai,Blight,High,Yes,6.61,92,35,39,31.5,70.8,189.2
+Cotton,Terai,Wilt,High,Yes,7.72,97,42,44,37.6,46.6,107.3
+Cotton,Terai,Boll Rot,Medium,Yes,6.93,100,50,35,37.3,57.5,141.7
+Potato,Mountain,Healthy,None,Yes,5.5,143,56,139,16.4,76.5,129.4
+Rice,Terai,Sheath Rot,Medium,No,6.99,92,58,32,34.5,89.6,272.6
+Maize,Hilly,Blight,High,Yes,6.03,115,61,37,19.9,74.2,142.2
+Rice,Terai,Blast,High,No,6.72,68,44,58,29.7,,180.1
+Tomato,Terai,Mosaic,Medium,No,6.11,,58,68,20.6,72.2,
+Maize,Hilly,Stalk Rot,High,Yes,6.27,73,54,55,29.2,75.1,120.9
+Cotton,Terai,Leaf Spot,Low,Yes,6.06,62,40,32,25.2,68.4,130.2
+Tomato,Terai,Leaf Curl,Medium,Yes,6.28,103,73,66,23.3,71.3,113.6
+Rice,Terai,Sheath Rot,Medium,No,,75,37,37,31.8,83.3,200.5
+Rice,Terai,Blight,High,Yes,6.44,85,46,36,25.1,72,273.1
+Wheat,Terai,Smut,High,Yes,6.98,112,42,60,20,60.3,96.2
+Cotton,Terai,Healthy,None,Yes,7.38,73,35,35,36.6,49.4,140.9
+Maize,Hilly,Stalk Rot,High,Yes,5.82,95,49,69,28.7,57,115.1
+Cotton,Terai,Leaf Spot,Low,No,6.54,86,54,42,28.1,45.7,94.8
+Cotton,Terai,Wilt,High,No,6.92,102,53,31,31.8,63.9,119.8
+Potato,Hilly,Scab,Low,No,6.05,129,87,129,16.6,68.6,141.2
+Rice,Terai,Sheath Rot,Medium,Yes,5.94,79,38,31,25,80.5,186.8
+Cotton,Terai,Wilt,High,Yes,6.11,98,51,39,36.8,49.5,52.1
+Potato,Mountain,Scab,Low,Yes,6.13,102,55,120,17.7,83.3,97.3
+Tomato,Terai,Leaf Curl,Medium,Yes,6.48,126,68,83,20.7,61.1,
+Maize,Hilly,Blight,High,Yes,6.47,94,40,50,19,72.8,110.8
+Rice,Terai,Sheath Rot,Medium,Yes,5.56,119,49,50,28,92,197.5
+Maize,Hilly,Mosaic,Medium,No,6.57,129,58,41,23.1,63.7,102.9
+Cotton,Terai,Boll Rot,Medium,Yes,7.86,95,52,35,33.9,60.8,134.8
+Cotton,Terai,Leaf Spot,Low,Yes,6.17,79,41,56,37.1,64.1,112
+Tomato,Terai,Leaf Curl,Medium,No,6.83,129,46,84,24.6,69.2,111.3
+Cotton,Terai,Boll Rot,Medium,Yes,7.71,101,53,40,26.7,65.2,58.8
+Rice,Terai,Healthy,None,Yes,6.28,110,54,58,28.8,72.3,252
+Cotton,Terai,Healthy,None,Yes,7.48,95,46,50,31.4,56.3,112
+Wheat,Hilly,Rust,Medium,Yes,6.42,129,51,72,13.3,51.1,89.7
+Wheat,Terai,Healthy,None,Yes,6.28,98,59,56,10.2,66,78.9
+Potato,Mountain,Early Blight,Medium,Yes,5.05,131,79,138,10.3,75.9,89
+Millet,Hilly,Downy Mildew,Medium,Yes,,47,30,35,21.3,55.1,84.7
+Wheat,Hilly,Powdery Mildew,Low,Yes,7.27,117,70,48,23.3,59.3,75.2
+Millet,Mountain,Rust,Medium,No,5.64,33,23,45,29.8,51.2,101.7
+Tomato,Terai,Wilt,High,Yes,6.66,93,41,70,27.3,57.8,95.2
+Rice,Terai,Blight,High,No,6.99,107,42,54,32.7,,196.6
+Millet,Hilly,Downy Mildew,Medium,No,5.86,31,44,36,30.9,43.3,86
+Wheat,Terai,Rust,,No,6.09,138,75,77,12.8,58.8,
+Millet,Mountain,Healthy,None,No,7.25,51,30,26,27.7,52.3,58
+Millet,Mountain,Blast,High,Yes,7.36,41,48,21,22.1,61.9,90
+Tomato,Hilly,Mosaic,Medium,Yes,6.29,81,72,72,28.7,63.1,84.7
+Potato,Mountain,Healthy,None,Yes,5.2,122,58,88,11.1,75.4,118
+Millet,Mountain,Healthy,None,Yes,7.29,39,22,42,28.7,45.6,79
+Wheat,Hilly,Healthy,None,Yes,7.09,91,75,57,11.4,56.6,99.8
+Rice,Terai,Blast,High,Yes,6.19,65,46,49,24.8,87.4,205.9
+Mustard,Hilly,Blight,,No,7.08,64,48,30,13.9,53.2,91.2
+Rice,Terai,Blast,High,Yes,5.55,66,48,56,32.8,79.5,155.4
+Maize,Terai,Blight,High,Yes,6.4,95,49,58,26.9,58.5,198.2
+Cotton,Terai,Boll Rot,Medium,Yes,7.61,81,53,43,31,58.6,124.4
+Maize,Terai,Healthy,None,Yes,6.09,99,38,64,22.6,56.5,144.1
+Mustard,Terai,Blight,High,No,6.35,64,33,37,14.2,63,48.7
+Tomato,Hilly,Leaf Curl,Medium,Yes,6.34,116,62,66,22.5,77.3,115.1
+Rice,Terai,Blight,High,Yes,5.84,96,48,52,30.1,85.3,254
+Millet,Hilly,Downy Mildew,Medium,Yes,5.61,64,47,22,25,43.1,119.4
+Mustard,Terai,Downy Mildew,Medium,Yes,7.15,72,44,43,11.4,66.8,84.6
+Millet,Mountain,Healthy,None,Yes,6.8,42,38,35,25.9,52.5,94.9
+Tomato,Hilly,Mosaic,Medium,No,6.98,89,45,52,22.4,77.7,92.7
+Potato,Hilly,Healthy,None,Yes,6.4,,86,98,10.5,82.3,76.5
+Potato,Hilly,Early Blight,Medium,No,5.68,123,76,105,20.7,80.4,60.7
+Millet,Hilly,Downy Mildew,Medium,Yes,6.87,65,26,46,24.9,65.7,75.2
+Rice,Terai,Healthy,None,Yes,5.82,106,36,37,24.7,83,245.5
+Mustard,Terai,Blight,High,Yes,6.07,,37,42,19.2,52.9,39.1
+Maize,Terai,Stalk Rot,High,Yes,,94,47,63,25.4,79.2,164.2
+Rice,Terai,Blight,High,Yes,5.86,86,32,58,33.2,79.2,154.3
+Potato,Mountain,Healthy,None,Yes,4.87,140,84,115,10.1,66.8,139.8
+Millet,Hilly,Rust,Medium,No,6.12,40,20,49,29.6,47.2,63.9
+Wheat,Hilly,Smut,High,Yes,6.43,98,49,60,22.2,52.8,118.5
+Rice,Terai,Blight,,Yes,6.54,95,56,40,32.1,84.2,209.5
+Tomato,Hilly,Leaf Curl,Medium,Yes,6.07,125,79,85,25.4,77.3,50.9
+Rice,Terai,Blast,High,Yes,6.15,61,58,36,34.5,70.5,189
+Tomato,Hilly,Leaf Curl,,Yes,6.68,,62,60,20.2,59.6,66.8
+Tomato,Hilly,Wilt,High,Yes,6.45,93,55,69,25.4,77.5,113.5
+Millet,Hilly,Rust,Medium,No,7.45,57,31,44,30.4,55,87.7
+Maize,Terai,Stalk Rot,High,No,6.51,120,55,46,24.4,69.3,83
+Millet,Mountain,Healthy,None,Yes,7.3,38,25,21,21,46.3,100
+Cotton,Terai,Leaf Spot,Low,No,6.45,86,50,53,29.9,42.2,68.3
+Cotton,Terai,Boll Rot,Medium,Yes,7.73,88,57,58,35.7,56.9,63
+Maize,Terai,Blight,High,No,7.14,99,52,51,30.6,79.8,98.5
+Rice,Terai,Sheath Rot,Medium,No,5.89,88,38,39,33.7,87,164.6
+Potato,Mountain,Healthy,None,Yes,6.14,127,63,132,10.1,63.7,140.6
+Wheat,Hilly,Powdery Mildew,Low,Yes,6.02,106,57,62,18.9,54,
+Cotton,Terai,Leaf Spot,Low,No,6.14,61,52,34,27.9,66.4,131.1
+Rice,Terai,Blast,,No,6.07,63,47,57,25.5,86.1,207.2
+Tomato,Terai,Healthy,None,Yes,6.87,129,64,70,24.4,70.1,61.4
+Wheat,Hilly,Rust,Medium,Yes,7.15,127,66,50,19.8,71.8,143.8
+Tomato,Hilly,Leaf Curl,Medium,No,6.89,127,74,90,28.8,58.2,61.2
+Rice,Terai,Sheath Rot,Medium,Yes,6.22,63,48,59,32.7,77.6,181.7
+Tomato,Terai,Leaf Curl,Medium,Yes,6.89,83,53,62,27.8,70.4,93.9
+Rice,Terai,Sheath Rot,Medium,No,6.67,75,35,50,28.7,71.9,172.2
+Rice,Terai,Blight,High,No,,112,32,51,24.8,75.5,212.9
+Maize,Hilly,Stalk Rot,High,Yes,6.2,99,45,55,19.7,68.3,168.2
+Potato,Hilly,Healthy,None,Yes,5.08,92,68,128,13.5,83.4,90.6
+Maize,Terai,Stalk Rot,High,No,7.03,,58,63,22.8,78.1,93.6
+Rice,Terai,Blast,High,Yes,5.66,102,36,39,26.1,73.2,246.9
+Maize,Terai,Blight,High,Yes,7,106,64,62,28.9,74.1,195.2
+Cotton,Terai,Boll Rot,Medium,No,6.01,61,43,37,37.7,66.1,79.6
+Rice,Terai,Sheath Rot,Medium,No,5.76,103,51,37,34.8,87,159.9
+Potato,Hilly,Early Blight,Medium,Yes,6.29,122,59,131,14.1,73.6,128.1
+Millet,Hilly,Downy Mildew,Medium,No,6,37,22,32,26,,
+Maize,Terai,Stalk Rot,High,Yes,7.14,107,54,59,19.4,62.5,94.1
+Wheat,Hilly,Healthy,None,Yes,7.48,126,41,42,23.1,61.3,73.9
+Cotton,Terai,Wilt,High,Yes,7.01,92,59,31,36,57.7,86.8
+Wheat,Terai,Powdery Mildew,Low,Yes,6.65,135,53,42,14.8,74.9,109.6
+Tomato,Hilly,Healthy,None,Yes,6.33,113,48,79,26.8,65.3,42
+Cotton,Terai,Wilt,High,Yes,6.85,79,51,46,31.1,52.1,129.2
+Mustard,Terai,Downy Mildew,Medium,No,7.21,95,48,20,11.7,65.4,50.4
+Millet,Hilly,Blast,High,Yes,6.85,47,41,44,26,55.9,100.2
+Millet,Mountain,Rust,Medium,No,5.73,51,45,42,20.1,47.3,43.4
+Potato,Hilly,Late Blight,High,No,5.11,93,62,125,21.7,73.9,
+Rice,Terai,Blast,High,Yes,5.88,113,51,49,31.5,72.7,255.4
+Cotton,Terai,Boll Rot,Medium,No,7.66,74,40,43,28.3,69,99.1
+Rice,Terai,Blight,High,No,5.53,84,46,48,29.1,78.4,172.6
+Cotton,Terai,Healthy,,No,6.71,67,47,54,29.4,59.1,81.4
+Wheat,Hilly,Powdery Mildew,Low,Yes,7,130,54,57,10.5,57.8,96.3
+Rice,Terai,Blast,High,Yes,,,35,35,30,93.4,226.7
+Maize,Hilly,Blight,High,No,6.38,121,67,51,29,57.9,152.4
+Tomato,Terai,Wilt,,Yes,6.9,87,54,80,20.9,78,80.9
+Rice,Terai,Blast,High,No,6.54,64,34,36,34.2,,269.5
+Tomato,Terai,Mosaic,Medium,Yes,6.26,85,76,99,29.9,65.9,40.6
+Mustard,Terai,Blight,High,Yes,6.62,64,35,40,19.2,56.8,80.1
+Wheat,Terai,Powdery Mildew,Low,Yes,6.42,126,66,73,17.9,57.5,78.2
+Wheat,Terai,Smut,High,Yes,6.59,96,77,67,12.1,58,105.7
+Mustard,Hilly,Blight,High,No,6.44,65,34,32,18.5,59.9,93.6
+Potato,Mountain,Scab,Low,No,6.26,107,57,102,13.3,76.3,100.4
+Cotton,Terai,Boll Rot,Medium,Yes,6.7,,40,33,27.5,66.9,59.8
+Rice,Terai,Sheath Rot,Medium,Yes,,117,55,58,25.6,80.5,255.5
+Cotton,Terai,Boll Rot,Medium,No,,83,32,31,34.5,52.6,125.7
+Wheat,Hilly,Powdery Mildew,Low,No,6.69,99,42,58,15.6,50.2,132.1
+Maize,Terai,Mosaic,Medium,Yes,6.9,123,68,62,23.3,66.5,127.3
+Wheat,Hilly,Powdery Mildew,,No,7.27,83,50,44,10.8,51.4,62.9
+Tomato,Hilly,Mosaic,Medium,Yes,6.31,103,40,86,23,75,73.2
+Maize,Hilly,Blight,High,Yes,5.95,107,39,69,27.9,,102.8
+Millet,Hilly,Rust,Medium,No,6.51,30,47,22,32.9,57.7,
+Maize,Hilly,Healthy,,Yes,6.65,93,45,65,24.7,55.7,112.5
+Potato,Hilly,Scab,Low,Yes,5.57,135,55,91,20.3,68.2,96.6
+Cotton,Terai,Leaf Spot,Low,Yes,7.69,73,32,48,34.6,59,137.1
+Mustard,Terai,Healthy,None,No,7.12,80,54,33,14.9,68.9,75.5
+Millet,Mountain,Healthy,None,Yes,6.12,30,20,47,26.1,42.4,41.1
+Tomato,Hilly,Wilt,High,Yes,6.48,96,57,78,21.7,55.4,117.3
+Maize,Hilly,Healthy,None,Yes,6.05,100,60,69,29.8,70.4,158.1
+Mustard,Hilly,Healthy,None,No,6.54,84,41,29,14.3,68,63.8
+Mustard,Terai,Healthy,None,Yes,7.27,76,31,29,24.9,55.4,81.5
+Potato,Hilly,Healthy,None,No,5.82,110,88,134,18.4,61.2,
+Maize,Terai,Stalk Rot,High,Yes,6.46,85,37,49,27.9,60.6,192.4
+Potato,Hilly,Scab,Low,Yes,5.72,91,53,105,18.6,67.3,90.3
+Rice,Terai,Sheath Rot,Medium,Yes,6.39,66,55,45,24.1,89.8,200.2
+Wheat,Hilly,Healthy,None,Yes,7.15,125,64,71,20.5,63.3,113.9
+Mustard,Terai,Downy Mildew,Medium,No,7.01,87,37,29,24,65.9,37.7
+Rice,Terai,Sheath Rot,Medium,Yes,6.18,110,58,53,34.3,86.6,237.2
+Wheat,Terai,Healthy,None,Yes,6.79,125,57,69,18.5,73.2,137.7
+Maize,Terai,Mosaic,,No,5.91,123,41,61,19.6,64.1,
+Potato,Hilly,Early Blight,Medium,Yes,5.92,91,83,90,10.5,62,127.7
+Mustard,Terai,Healthy,None,Yes,6.1,94,53,27,20,,
+Cotton,Terai,Boll Rot,Medium,Yes,7.64,64,50,31,26.3,41.9,90.5
+Millet,Hilly,Downy Mildew,,Yes,6.31,59,41,32,22.7,43.4,117.7
+Tomato,Terai,Wilt,High,Yes,6.25,86,63,98,24.5,78.4,73
+Cotton,Terai,Leaf Spot,Low,Yes,7.25,99,38,46,25.7,51.2,100.1
+Millet,Hilly,Healthy,None,Yes,5.63,65,32,34,26.5,45.9,64.4
+Mustard,Hilly,Blight,High,Yes,6.7,72,44,29,11.3,72.3,34.6
+Millet,Hilly,Blast,High,Yes,5.59,55,26,40,27.1,62.9,94
+Millet,Hilly,Healthy,None,Yes,5.99,48,23,48,31.5,65.5,115.6
+Tomato,Terai,Leaf Curl,Medium,Yes,6.58,,74,99,25.6,57,41.2
+Millet,Hilly,Downy Mildew,Medium,Yes,5.64,51,46,40,21.7,47.9,73.4
+Rice,Terai,Blast,High,No,5.88,91,30,37,26.3,70.5,215.3
+Millet,Hilly,Blast,High,No,5.91,53,41,40,34.2,66.5,98.9
+Rice,Terai,Healthy,None,Yes,6.76,68,55,50,29.6,85.7,269.1
+Maize,Terai,Blight,High,Yes,5.85,108,65,47,19.8,62.5,
+Millet,Mountain,Healthy,,Yes,7.07,33,32,46,30.2,68.5,57.5
+Maize,Terai,Mosaic,Medium,Yes,6.99,79,60,53,19.3,61.7,
+Cotton,Terai,Healthy,None,No,6.91,99,55,49,30.7,63.5,
+Cotton,Terai,Leaf Spot,Low,Yes,7.94,60,33,39,26,40.1,57.8
+Potato,Hilly,Late Blight,High,Yes,6.12,117,89,108,20.3,60.2,137.9
+Maize,Hilly,Mosaic,Medium,Yes,6.47,77,43,67,18.7,74.9,81.5
+Rice,Terai,Healthy,None,Yes,6.27,76,34,42,29.1,73.2,245.9
+Maize,Terai,Stalk Rot,High,Yes,6.59,125,64,58,27.5,56.1,93.9
+Mustard,Hilly,Downy Mildew,Medium,Yes,,90,40,28,20.2,,90.1
+Maize,Terai,Mosaic,Medium,Yes,6.32,124,63,69,28,59.5,
+Potato,Mountain,Early Blight,Medium,No,5.98,148,88,94,18.1,65.9,143.9
+Rice,Terai,Blight,High,No,5.76,62,49,53,28.4,89.3,152.5
+Maize,Hilly,Blight,High,Yes,5.81,,68,56,18.6,77.2,108.4
+Cotton,Terai,Wilt,High,Yes,6.04,91,48,59,35.3,42.4,63
+Mustard,Hilly,Downy Mildew,Medium,Yes,6.68,67,34,27,18.1,73.5,98.9
+Maize,Terai,Mosaic,,Yes,6.52,118,43,43,18.6,59.4,177
+Tomato,Terai,Healthy,None,No,6.54,105,67,53,27.7,56.2,93.7
+Rice,Terai,Sheath Rot,Medium,Yes,6.32,78,35,32,26.8,82.1,257.3
+Cotton,Terai,Healthy,None,Yes,6.59,105,59,35,31.9,63.9,51.8
+Cotton,Terai,Healthy,None,No,7.04,90,37,31,29.6,46.7,60.5
+Wheat,Hilly,Powdery Mildew,Low,Yes,7.41,110,56,72,13.1,51.7,57.1
+Rice,Terai,Healthy,None,No,6.79,87,53,58,24.7,90.6,227.1
+Millet,Hilly,Blast,High,Yes,6,39,25,37,23.2,48.3,46.3
+Tomato,Hilly,Wilt,High,Yes,6.54,126,52,93,25.2,58.2,49.3
+Mustard,Terai,Healthy,None,No,6.93,97,53,23,13.2,65.1,78.4
+Cotton,Terai,Wilt,High,No,7.14,68,55,58,27.2,59.5,129.1
+Maize,Hilly,Mosaic,Medium,No,7.11,104,51,45,21.1,69.3,194.9
+Wheat,Hilly,Healthy,None,Yes,6.18,91,48,62,16.2,69.6,65.1
+Maize,Terai,Blight,High,Yes,6.11,89,61,48,30.2,78.7,101.7
+Rice,Terai,Blast,High,No,6.47,99,54,42,29.1,76.2,187.2
+Wheat,Terai,Rust,Medium,No,7.14,112,65,77,19.3,65.3,92
+Mustard,Hilly,Healthy,None,No,6.25,73,52,35,21.8,56.5,44.1
+Cotton,Terai,Healthy,None,Yes,7.32,109,37,50,32.1,61.1,77
+Millet,Mountain,Rust,Medium,Yes,6.26,63,29,37,20.9,67.3,92.2
+Rice,Terai,Blast,High,Yes,5.99,106,33,59,34.7,86.4,183.6
+Tomato,Hilly,Leaf Curl,,Yes,6.52,107,43,56,20.4,75,72.1
+Mustard,Terai,White Rust,Medium,Yes,7.21,,58,45,18.5,62.4,47.2
+Wheat,Terai,Healthy,None,Yes,7.17,101,48,54,13,53,59.5
+Wheat,Terai,Rust,Medium,No,6.49,85,68,54,11.8,71.1,134.4
+Rice,Terai,Blast,High,Yes,6,74,44,46,31.6,79.9,254.2
+Rice,Terai,Blight,High,Yes,6.08,89,59,36,32.1,86.8,228.2
+Millet,Hilly,Blast,High,Yes,6.61,69,43,23,33.6,55.8,88.4
+Maize,Hilly,Mosaic,,Yes,5.84,,64,44,20.6,63.4,123.5
+Potato,Mountain,Scab,Low,Yes,4.98,139,67,84,15.9,77.2,
+Rice,Terai,Blight,High,Yes,5.61,71,44,53,25.1,71.9,192.7
+Mustard,Terai,Healthy,None,No,7.1,85,56,22,13.4,56.6,62.6
+Maize,Terai,Healthy,None,Yes,6.46,112,67,46,25.2,,112.1
+Potato,Hilly,Healthy,None,No,5.05,140,55,133,16.7,76.4,101.9
+Potato,Hilly,Healthy,None,Yes,5.04,126,71,92,15.7,77.4,110.7
+Millet,Hilly,Downy Mildew,Medium,Yes,5.56,67,40,40,29.3,57.1,109.5
+Potato,Hilly,Scab,Low,Yes,6.05,101,72,92,10.8,65.4,77.4
+Mustard,Hilly,White Rust,Medium,No,6.99,64,49,34,24.9,59.8,66.9
+Wheat,Terai,Smut,High,Yes,6.19,113,71,68,15.4,65.8,144.9
+Wheat,Hilly,Healthy,None,No,7.08,135,56,47,13.7,60.4,138.1
+Maize,Hilly,Healthy,None,Yes,6.47,99,42,55,30.5,74.5,130.3
+Millet,Hilly,Downy Mildew,Medium,Yes,6.9,60,47,26,34.1,50,62
+Maize,Hilly,Healthy,None,Yes,7.2,110,69,58,23.3,77.2,115.6
+Mustard,Hilly,Downy Mildew,Medium,Yes,6.33,,47,36,23.1,72.2,33.7
+Maize,Terai,Healthy,None,Yes,6.65,107,53,55,18.3,67.9,166.5
+Mustard,Terai,Healthy,None,Yes,6.3,96,52,40,19.4,57.7,39.2
+Cotton,Terai,Wilt,,Yes,6.48,109,34,44,25.5,,98.1
+Potato,Hilly,Late Blight,High,Yes,6.02,125,69,91,21,71.3,132.1
+Tomato,Terai,Leaf Curl,Medium,Yes,6.71,124,69,84,24.1,60.5,110.8
+Potato,Hilly,Late Blight,High,Yes,6.35,147,63,101,19.9,67.7,131
+Rice,Terai,Blast,High,Yes,6.8,67,55,39,34.5,91,198.1
+Rice,Terai,Blast,High,Yes,5.81,78,53,56,30.8,94,271.7
+Rice,Terai,Healthy,None,Yes,6.26,119,43,31,28.2,89,269
+Wheat,Terai,Smut,High,Yes,6.12,104,48,56,15,62.3,104.2
+Maize,Terai,Blight,High,Yes,5.82,123,36,43,19.9,75.4,182.2
+Mustard,Hilly,White Rust,Medium,Yes,6.31,73,54,40,12.7,68.9,96
+Rice,Terai,Healthy,None,Yes,6.89,92,49,57,27.3,90.4,209.7
+Potato,Hilly,Healthy,None,No,5.28,101,70,131,12.5,80.1,82.5
+Maize,Terai,Stalk Rot,High,Yes,6.82,121,58,63,25.8,62.6,110.7
+Tomato,Terai,Leaf Curl,Medium,Yes,6.58,106,58,60,29.6,78.3,79.9
+Tomato,Terai,Mosaic,Medium,No,6.64,119,61,81,24,79.2,
+Wheat,Hilly,Powdery Mildew,Low,Yes,6.16,93,68,42,23.1,,101
+Maize,Hilly,Healthy,None,Yes,6.56,92,59,51,29.5,60.5,145.6
+Tomato,Terai,Mosaic,Medium,Yes,6.47,88,54,69,22.3,62.5,44.7
+Tomato,Hilly,Mosaic,Medium,Yes,6.2,126,67,91,23.3,76.3,85.1
+Millet,Hilly,Healthy,None,Yes,7.33,46,31,35,29,45.3,93.2
+Millet,Mountain,Downy Mildew,Medium,Yes,6.06,46,27,20,30.3,47.2,57
+Wheat,Hilly,Healthy,None,Yes,7.44,109,72,62,11.6,56.4,106.7
+Wheat,Terai,Rust,Medium,Yes,6.49,119,62,53,18.9,68.2,51.6
+Potato,Hilly,Late Blight,High,No,,130,52,126,19.7,82.9,129.4
+Tomato,Hilly,Mosaic,Medium,Yes,6.82,112,56,72,24.2,59.9,102.8
+Rice,Terai,Blast,High,No,6.46,,57,32,26.2,70.1,280
+Rice,Terai,Blast,High,Yes,5.77,75,54,58,30.1,,222.6
+Tomato,Hilly,Healthy,None,No,6.7,111,47,73,25.4,56.9,82.6
+Millet,Mountain,Downy Mildew,Medium,No,6.16,60,32,39,30.1,41.7,53.6
+Rice,Terai,Sheath Rot,Medium,Yes,6.77,65,44,34,25.2,,221.2
+Millet,Mountain,Blast,High,Yes,6.73,67,39,22,21,43.5,73.4
+Rice,Terai,Blast,High,No,5.6,86,55,32,27.2,74.3,269.8
+Cotton,Terai,Wilt,High,Yes,6.56,90,54,52,26.5,49,63.9
+Potato,Mountain,Early Blight,Medium,No,5.87,139,70,123,17.5,67.5,142.5
+Rice,Terai,Sheath Rot,Medium,Yes,6.29,72,45,46,34.6,91,235
+Maize,Hilly,Healthy,None,Yes,6.85,74,38,57,30.8,65,139.8
+Tomato,Terai,Mosaic,Medium,Yes,6.15,85,44,55,20.5,67.6,81.3
+Wheat,Terai,Smut,High,Yes,7.48,129,58,62,24.9,57.8,72.7
+Tomato,Terai,Leaf Curl,Medium,Yes,6.8,93,68,60,25.2,62.5,72.1
+Wheat,Terai,Smut,High,Yes,6.44,103,53,73,10.4,58.7,113.1
+Wheat,Terai,Healthy,None,Yes,6.68,134,44,68,11.8,55.2,77.3
+Rice,Terai,Blight,High,Yes,6.04,103,36,36,29.9,71.5,226.8
+Rice,Terai,Sheath Rot,Medium,Yes,,91,50,38,26.4,,163.4
+Tomato,Terai,Mosaic,Medium,Yes,6.01,,56,78,28.2,70.4,108.9
+Wheat,Hilly,Healthy,None,Yes,6.61,81,46,68,15.6,66.1,77.1
+Tomato,Terai,Leaf Curl,Medium,Yes,6.84,124,72,55,20.9,80,75.6
+Tomato,Hilly,Wilt,,Yes,6.88,121,49,51,26.3,60.8,65.4
+Rice,Terai,Blight,High,Yes,5.56,100,39,46,32.6,80.1,165.2

@@ -1,0 +1,6 @@
+,soil_ph,soil_ph,nitrogen,nitrogen,phosphorus,phosphorus,potassium,potassium,temperature,temperature,humidity,humidity,rainfall,rainfall
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+KMeans_Cluster,,,,,,,,,,,,,,
+0,6.7,0.56,79.31,22.17,44.23,10.41,41.92,11.89,25.66,6.65,59.23,9.19,94.35,33.57
+1,6.35,0.61,110.67,18.16,62.3,11.78,75.36,19.62,19.13,5.33,67.48,8.62,96.4,29.54
+2,6.28,0.42,92.56,17.54,45.37,8.98,45.42,9.42,29.29,3.41,80.21,7.59,196.05,38.78
